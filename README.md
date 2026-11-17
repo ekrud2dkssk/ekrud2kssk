@@ -1,41 +1,53 @@
-# Hi, I'm Ana-Maria Donțu!
+# Ana-Maria Donțu
 
-**Economics Graduate | MSc Student in Data Science | Aspiring Data Researcher**
+**Economics Graduate | MSc Student in Data Science**
 
-I am interested in the intersection of economics, data science and technology. My academic background in International Economics and Business, combined with my current studies in Data Science, allows me to approach research questions from both economic and computational perspectives.
+Welcome to my GitHub profile.
 
-I use this space to document my learning journey, develop practical programming skills and share projects involving data analysis, quantitative methods and interdisciplinary research.
+My academic background is in International Economics and Business, and I am currently pursuing a Master's degree in Data Science. I am interested in combining economic reasoning with quantitative and computational methods to investigate economic and societal phenomena.
 
-## Areas of Interest
+This GitHub profile serves as a space to document my learning process, develop practical programming skills and organise my academic and personal research projects.
 
-- **Economics & Econometrics:** Applied econometrics, international trade, economic modelling and financial markets.
-- **Data Science:** Data analysis, statistical modelling, machine learning and data visualisation.
-- **Computational Methods:** Python, NLP, sentiment analysis and predictive modelling.
-- **Technology & Society:** Digital transformation, cybersecurity and technology-driven economic change.
+## Research Interests
 
-## Technical Skills
+- Applied Econometrics and Statistical Modelling
+- International Trade and Digital Economy
+- Economic Data Analysis
+- Computational Social Science
+- Machine Learning and Predictive Modelling
+- Natural Language Processing and Sentiment Analysis
+- Financial Markets and Digital Transformation
 
-**Currently developing:**
+## Technical Development
+
+Currently developing practical skills in:
+
 - Python
-- Pandas
-- Data manipulation and analysis
-- Data visualisation
-- Git & GitHub
-- Machine Learning fundamentals
+- Pandas and NumPy
+- Data Cleaning and Exploratory Data Analysis
+- Data Visualisation
+- Statistical Analysis
+- Git and GitHub
+- Machine Learning Fundamentals
 
-## Selected Research & Projects
+## Research & Projects
 
-*This section will grow as I publish and document my work.*
+My interests and ongoing work include:
 
-- **Digital Trade & Economic Connectivity:** Research applying gravity modelling and econometric methods to international trade and digital connectivity.
-- **Economic Data Analysis:** Quantitative analysis of macroeconomic indicators, including remittances, GDP, investment and international trade.
-- **Python & Data Science Projects:** Practical exercises and analytical projects developed throughout my Data Science studies.
+**Digital Trade and Economic Connectivity**
 
-## Currently Learning
+Exploring the relationship between digital connectivity and international trade using economic data, gravity models and quantitative methods.
 
-Building a stronger technical foundation in Python, developing reproducible data analysis workflows and learning to use computational methods to investigate economic and societal questions.
+**Macroeconomic Data Analysis**
 
-## Connect with Me
+Investigating macroeconomic relationships involving remittances, GDP, investment, international trade and other economic indicators.
 
-- [LinkedIn](https://www.linkedin.com/in/ek2rud0dk0ssk1)
-- [GitHub](https://github.com/ekrud2dkssk)
+**Computational Methods for Financial Markets**
+
+Exploring how computational methods, natural language processing and sentiment analysis can be applied to the study of public communications and capital-market reactions.
+
+## Learning Philosophy
+
+I believe that effective data analysis requires more than technical skills. It also requires understanding the context behind the data, formulating meaningful research questions and interpreting results critically.
+
+I use this space to learn, experiment, document my progress and gradually build reproducible analytical projects.
